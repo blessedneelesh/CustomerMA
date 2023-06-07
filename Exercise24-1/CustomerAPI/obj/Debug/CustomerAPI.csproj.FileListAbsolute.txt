@@ -1,0 +1,252 @@
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerAPI.dll.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerAPI.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerAPI.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csc.exe
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csc.exe.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csc.rsp
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csi.exe
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csi.exe.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\csi.rsp
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.AppContext.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Console.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\vbc.exe
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\vbc.exe.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\vbc.rsp
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Antlr3.Runtime.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Newtonsoft.Json.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Helpers.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Mvc.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Optimization.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Razor.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\WebGrease.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Newtonsoft.Json.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Helpers.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Mvc.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Optimization.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Razor.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Antlr3.Runtime.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.CopyComplete
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerMAData.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\EntityFramework.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerMAData.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\CustomerMAData.dll.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\EntityFramework.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Buffers.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Memory.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Numerics.Vectors.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Cors.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.Cors.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Buffers.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Memory.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Numerics.Vectors.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerAPI\bin\System.Web.Http.Cors.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerAPI.dll.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerAPI.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerAPI.pdb
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csc.exe
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csc.exe.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csc.rsp
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csi.exe
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csi.exe.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\csi.rsp
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.AppContext.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Console.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\vbc.exe
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\vbc.exe.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\vbc.rsp
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Antlr3.Runtime.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerMAData.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Newtonsoft.Json.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Buffers.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Memory.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Numerics.Vectors.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Cors.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Helpers.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.Cors.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Mvc.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Optimization.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Razor.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\WebGrease.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\EntityFramework.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerMAData.pdb
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\CustomerMAData.dll.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Buffers.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Memory.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Numerics.Vectors.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.Cors.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Newtonsoft.Json.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Helpers.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Mvc.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Optimization.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.Razor.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Antlr3.Runtime.pdb
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\bin\EntityFramework.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.csproj.CopyComplete
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerAPI\obj\Debug\CustomerAPI.pdb

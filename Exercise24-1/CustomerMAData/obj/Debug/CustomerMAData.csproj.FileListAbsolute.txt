@@ -1,0 +1,24 @@
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.CoreCompileInputs.cache
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.pdb
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.dll.config
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.AssemblyReference.cache
+C:\Users\neele\source\repos\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.CopyComplete
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.dll.config
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\CustomerMAData.pdb
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.AssemblyReference.cache
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.CoreCompileInputs.cache
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.csproj.CopyComplete
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.dll
+C:\Users\neele\source\repos\New folder\Exercise24-1\CustomerMAData\obj\Debug\CustomerMAData.pdb

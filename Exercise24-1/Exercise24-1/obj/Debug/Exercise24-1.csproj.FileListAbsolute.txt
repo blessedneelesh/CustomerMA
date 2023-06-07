@@ -1,0 +1,15 @@
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\Exercise24-1.exe.config
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\Exercise24-1.exe
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\Exercise24-1.pdb
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\obj\Debug\Exercise24-1.csproj.AssemblyReference.cache
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\obj\Debug\Exercise24-1.csproj.CoreCompileInputs.cache
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\obj\Debug\Exercise24-1.exe
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\obj\Debug\Exercise24-1.pdb
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\CustomerMAData.dll
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\CustomerMAData.pdb
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\obj\Debug\Exercise24-1.csproj.CopyComplete
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\EntityFramework.dll
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\CustomerMAData.dll.config
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\EntityFramework.xml
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neele\source\repos\Exercise24-1\Exercise24-1\bin\Debug\EntityFramework.SqlServer.xml
